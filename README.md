@@ -5,4 +5,4 @@ noise effect. After that, the signals are demodulated and received at the baseba
 
 ## Block Diagram
 
-![Capture](https://github.com/Mohamed-Nasser620/Super_Heterodyne_Receiver_Communication_System/assets/104467935/19835f06-6930-4298-bb2d-0792769f8bae)
+![Capture](https://github.com/Hana-Khater/Super_Heterodyne_Receiver_Communication_System/assets/137838933/47ac5298-6a95-4eab-a370-a44c04f46ef3)
